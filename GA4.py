@@ -1,7 +1,7 @@
 import numpy as np
 import random
 import time
-#import multiprocessing
+import multiprocessing
 import sys
 import matplotlib.pyplot as plt
 from matplotlib.patches import Rectangle
